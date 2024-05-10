@@ -37,6 +37,7 @@ python generate.py
 ![input](https://github.com/lolpanda2004/ArtGAN/assets/98698654/b579d716-6e15-4e17-9199-673e1a0448da)
 
 ## Output
-![output](https://github.com/lolpanda2004/ArtGAN/assets/98698654/58e281a0-182c-4eca-8d2c-90e42705c69f)
+![Output](https://github.com/lolpanda2004/ArtGAN/assets/98698654/04071c2b-4c04-43b2-b960-2ac9de22be2a)
+
 
 
