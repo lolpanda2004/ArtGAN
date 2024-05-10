@@ -33,6 +33,9 @@ python train.py
 6. Once training is complete, generate new abstract art:
 python generate.py
 
+## Project Link
+https://www.kaggle.com/code/lathikadevanand/gan-art-generator
+
 ## Input
 ![Input](https://github.com/lolpanda2004/ArtGAN/assets/98698654/b52b4282-6d8f-4e78-bbaf-474d6056ccf0)
 
