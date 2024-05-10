@@ -34,7 +34,7 @@ python train.py
 python generate.py
 
 ## Input
-![input](https://github.com/lolpanda2004/ArtGAN/assets/98698654/b579d716-6e15-4e17-9199-673e1a0448da)
+![Input](https://github.com/lolpanda2004/ArtGAN/assets/98698654/b52b4282-6d8f-4e78-bbaf-474d6056ccf0)
 
 ## Output
 ![Output](https://github.com/lolpanda2004/ArtGAN/assets/98698654/04071c2b-4c04-43b2-b960-2ac9de22be2a)
